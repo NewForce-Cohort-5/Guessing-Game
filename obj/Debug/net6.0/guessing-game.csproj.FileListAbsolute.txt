@@ -1,0 +1,15 @@
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\guessing-game\bin\Debug\net6.0\guessing-game.exe
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\guessing-game\bin\Debug\net6.0\guessing-game.deps.json
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\guessing-game\bin\Debug\net6.0\guessing-game.runtimeconfig.json
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\guessing-game\bin\Debug\net6.0\guessing-game.dll
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\guessing-game\bin\Debug\net6.0\ref\guessing-game.dll
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\guessing-game\bin\Debug\net6.0\guessing-game.pdb
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\guessing-game\obj\Debug\net6.0\guessing-game.csproj.AssemblyReference.cache
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\guessing-game\obj\Debug\net6.0\guessing-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\guessing-game\obj\Debug\net6.0\guessing-game.AssemblyInfoInputs.cache
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\guessing-game\obj\Debug\net6.0\guessing-game.AssemblyInfo.cs
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\guessing-game\obj\Debug\net6.0\guessing-game.csproj.CoreCompileInputs.cache
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\guessing-game\obj\Debug\net6.0\guessing-game.dll
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\guessing-game\obj\Debug\net6.0\ref\guessing-game.dll
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\guessing-game\obj\Debug\net6.0\guessing-game.pdb
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort5\teaching\back-end\book-one\guessing-game\obj\Debug\net6.0\guessing-game.genruntimeconfig.cache
